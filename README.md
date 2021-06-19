@@ -1,5 +1,5 @@
 # Assignment-07-Clustering-Hierarchical-Airlines-
-Perform clustering (Both hierarchical and K means clustering) for the airlines data to obtain optimum number of clusters. 
+Perform clustering (hierarchical) for the airlines data to obtain optimum number of clusters. 
 Draw the inferences from the clusters obtained.
 
 Data Description:
